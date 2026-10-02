@@ -1,6 +1,12 @@
 # John Yoon
 
-Engineer focused on **AI enablement, agent infrastructure, evaluation, and developer tooling**.
+**AI/ML & Platform Engineering Leader** focused on reliable AI systems, GenAI platforms, evaluation, agent infrastructure, and developer tooling.
+
+I have 13+ years of experience across production software and machine learning, including serving as **Senior Lead Machine Learning Engineer at Capital One (2024)**, Senior Machine Learning Engineer at Intuit, and Member of Technical Staff at Nutanix.
+
+**Education:** B.S. Computer Science, **University of California, Los Angeles (UCLA)**, 2012 · Master of Divinity, **Southwestern Baptist Theological Seminary (SWBTS)**, 2026 · Ph.D. student in Applied Theology, **Southeastern Baptist Theological Seminary (SEBTS)**, 2026–present.
+
+[Personal site](https://johnyoonh.github.io/) · [LinkedIn](https://www.linkedin.com/in/johnyoonh/)
 
 I build practical systems around AI-assisted software development: orchestrating and verifying coding agents, grounding model outputs in evidence, integrating tools through MCP, and automating developer workflows with explicit safety and recovery boundaries.
 
